@@ -72,7 +72,7 @@ My responsibility was to **design and build an end-to-end Power BI dashboard** t
 ![Premium Analysis](comparison3.jpg)
 
 #### 📸 Page 6 — Sales Hierarchy
-![Sales Hierarchy](sales_hierarchy.jpg)
+![Sales Hierarchy](sales%20hierarchy.jpg)
 
 ### 🎛️ Interactivity & Filters
 - Slicers for: **Policy Type, Policy Name, Sales Agent, Year, State, Occupation, Payment Bucket**
